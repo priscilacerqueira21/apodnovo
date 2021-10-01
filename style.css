@@ -2,10 +2,15 @@
     padding: 0;
     margin: 0;
 }
-body {
+body, html {
     background-color: rgb(189, 136, 238);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content:space-around;
+  
+    
+}
+#black{
+    color: black;
 }
